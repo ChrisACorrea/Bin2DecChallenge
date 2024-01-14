@@ -1,0 +1,14 @@
+D:\Bin2DecChallenge\Bin2DecConsole\bin\Debug\net8.0\Bin2DecConsole.exe
+D:\Bin2DecChallenge\Bin2DecConsole\bin\Debug\net8.0\Bin2DecConsole.deps.json
+D:\Bin2DecChallenge\Bin2DecConsole\bin\Debug\net8.0\Bin2DecConsole.runtimeconfig.json
+D:\Bin2DecChallenge\Bin2DecConsole\bin\Debug\net8.0\Bin2DecConsole.dll
+D:\Bin2DecChallenge\Bin2DecConsole\bin\Debug\net8.0\Bin2DecConsole.pdb
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\Bin2DecConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\Bin2DecConsole.AssemblyInfoInputs.cache
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\Bin2DecConsole.AssemblyInfo.cs
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\Bin2DecConsole.csproj.CoreCompileInputs.cache
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\Bin2DecConsole.dll
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\refint\Bin2DecConsole.dll
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\Bin2DecConsole.pdb
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\Bin2DecConsole.genruntimeconfig.cache
+D:\Bin2DecChallenge\Bin2DecConsole\obj\Debug\net8.0\ref\Bin2DecConsole.dll
