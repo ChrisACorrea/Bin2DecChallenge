@@ -1,16 +1,15 @@
-﻿Console.Write("Insira o valor em binário: ");
+﻿using Bin2DecConsole;
+
+Console.Write("Insira o valor em binário: ");
 var binaryValue = Console.ReadLine() ?? "";
 
-if (binaryValue.Any(n => n != '0' && n != '1'))
-{
-	Console.WriteLine("Valor inválido. O valor deve conter somente os dígitos '0' e '1'.");
-	Environment.Exit(0);
-}
-
-var decimalValue = 0;
-for (int i = 0; i < binaryValue.Length; i++)
-	if (binaryValue[i] == '1')
-		decimalValue += (int)Math.Pow(2, binaryValue.Length - 1 - i);
-
+var (success, convertedValue, errors) = Bin2DecConverter.Convert(binaryValue);
 Console.WriteLine("");
-Console.WriteLine($"O valor decimal de {binaryValue} é: {decimalValue}");
+
+if (success)
+	Console.WriteLine($"O valor decimal é: {convertedValue}");
+else
+	foreach (var error in errors)
+	{
+		Console.WriteLine(error);
+	}
